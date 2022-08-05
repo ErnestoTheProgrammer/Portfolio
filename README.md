@@ -14,7 +14,7 @@ Index
 * UI lenders photo images with slope data collected from GoPro
 * Improve Navigate LA Interface to display datapoints from GPS and sectionID from sidewalk(s)
 
-You can access to it **[HERE](https://github.com/pramirezx/BOE-Sidewalk-Monitoring-System.git)**
+You can access **[HERE](https://github.com/pramirezx/BOE-Sidewalk-Monitoring-System.git)**
 
 ## BREAKING BAD API
 ### Project overview
@@ -22,7 +22,7 @@ You can access to it **[HERE](https://github.com/pramirezx/BOE-Sidewalk-Monitori
 * Used Postman to test API search using queries to store data in JSON format in Mongo DB
 * Sorted data in MongoDB dependent on POST and GET methods from server
 
-You can access to it **[HERE](https://github.com/ErnestoTheProgrammer/Breaking-Bad-API.git)**
+You can access **[HERE](https://github.com/ErnestoTheProgrammer/Breaking-Bad-API.git)**
 
 ## UNIVERSITY DATABASE
 ### Project overview
@@ -31,4 +31,4 @@ You can access to it **[HERE](https://github.com/ErnestoTheProgrammer/Breaking-B
 * Person(class), Employee(class), Faculty(class), Students(class) were created to inherit one another using multiple inheritance
 * Created a GUI using interfaces, javaFX, and javaIO to create users based off their title and display them and their unique functions 
 
-You can access to it **[HERE](https://github.com/ErnestoTheProgrammer/University-Database-GUI.git)**
+You can access **[HERE](https://github.com/ErnestoTheProgrammer/University-Database-GUI.git)**
